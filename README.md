@@ -46,7 +46,7 @@ This is a React project that demonstrates the use of **Context API** for state m
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Kunal1101/context-api
 cd your-repo
 ```
 
@@ -161,26 +161,8 @@ const UserContextProvider = ({ children }) => {
 export default UserContextProvider;
 ```
 
----
-
-## 🛠 Future Enhancements
-
-🔹 Add form validation using **Formik / Yup**.  
-🔹 Implement authentication with **JWT**.  
-🔹 Store user data in **LocalStorage** for persistence.
-
----
-
 ## 🙌 Contributing
 
 Feel free to fork this repo and submit **pull requests**! 🎉
-
----
-
-## 📝 License
-
-This project is **open-source** and available under the [MIT License](LICENSE).
-
----
 
 ### ⭐ Happy Coding! 🚀
