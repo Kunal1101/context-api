@@ -47,7 +47,7 @@ This is a React project that demonstrates the use of **Context API** for state m
 
 ```sh
 git clone https://github.com/Kunal1101/context-api
-cd your-repo
+cd context-api
 ```
 
 ### 2️⃣ Install Dependencies
